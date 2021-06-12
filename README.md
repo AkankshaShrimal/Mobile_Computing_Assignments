@@ -14,14 +14,42 @@ All  Assignments done in Mobile Computing course in Indraprastha Institute of In
 
 ## Outputs 
 
-<details>
-<summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;001_Android_Activity</a>    
-</summary>
-This text is used as a placeholder or a tk note. Words that will follow won't make any sense and this is fine. At the moment, the goal is to build a structure for our site.
+## 001_Android_Activity
 
-Cheers!
-[Pascal](https://twitter.com/askpascalandy/)
+                                   Fig 1. Basic Android Activity and Intents usage 
 
-</details>
+
+
+
+## 002_Service_Broadcast-Receiver_and_Async-Task
+
+                                   Fig 1. Music Application with play and pause functionality (foreground service) and download file using async task 
+
+
+## 003_Recyclerview_and_Fragments
+
+                                   Fig 1. Recycler View in Android
+
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" >
+    <source src="Images/A1.mp4" type="video/mp4">
+
+  </video>
+</figure>
+
+## 004_Android_Sensors_and_Room_Database
+
+                                   Fig 1. Recoding real time data from sensors and checking mobility 
+
+
+## 005_Indoor_Localization_using_Wifi
+
+- Implemented []()
+- 
+- 
+
+
+                                   Fig 1. Indoor Localization using Wifi  
+
 
