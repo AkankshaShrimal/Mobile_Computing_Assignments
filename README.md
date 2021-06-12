@@ -9,7 +9,7 @@ All  Assignments done in Mobile Computing course in Indraprastha Institute of In
 |02. |Basic Music Application using : **fragmmet , service (foreground witn notifications), Broadcast Receivers** for complete application, Check Connection, **Async Task to download song internal to the app** , Play songs from raw and internal files     |[002_Service_Broadcast-Receiver_and_Async-Task](002_Service_Broadcast-Receiver_and_Async-Task/)     |                                          
 |03. | Displaying and Editing list of students using **Recycler View, Adapter (No Databse)**   |[003_Recyclerview_and_Fragments](003_Recyclerview_and_Fragments/)  |
 |04. |Recording real time **sensor** data and storing in **Room database** while retrieving mean of data till date |[004_Android_Sensors_and_Room_Database](004_Android_Sensors_and_Room_Database/)  |
-|05. | **Indoor Localization** using wifi with room level accuracy : access wifi available, record RSI level, Localize using **Wardriving and KNN**,Also Plotting data in android  |[005_Indoor_Localization_using_Wifi](005_Indoor_Localization_using_Wifi/)       |
+|05. | **Indoor Localization** using wifi with room level accuracy : access wifi available, record RSI level, Localize using **Wardriving and KNN**,also Plotting data in android  |[005_Indoor_Localization_using_Wifi](005_Indoor_Localization_using_Wifi/)       |
 
 
 ## Outputs 
@@ -62,9 +62,9 @@ All  Assignments done in Mobile Computing course in Indraprastha Institute of In
      <td>Wifi Scanner using Barplots</td>
   </tr>
   <tr>
-    <td><img src="Images/A5_wifi_rsi_values.gif" width=270 height=270></td>
-    <td><img src="Images/A5_wardriving_data_collection.gif" width=270 height=270></td>
-    <td><img src="Images/A5_wardrive_prediction.gif" width=270 height=270></td>
-    <td><img src="Images/A5_wifi_scanner.gif" width=270 height=270></td>
+    <td><img src="Images/A5_wifi_rsi_values.gif" width=270 height=300></td>
+    <td><img src="Images/A5_wardriving_data_collection.gif" width=270 height=300></td>
+    <td><img src="Images/A5_wardrive_prediction.gif" width=270 height=300></td>
+    <td><img src="Images/A5_wifi_scanner.gif" width=270 height=300></td>
   </tr>
  </table> 
