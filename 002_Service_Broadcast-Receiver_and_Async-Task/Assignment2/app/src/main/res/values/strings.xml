@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="start_music">Start Music</string>
+    <string name="stop_music">Stop Music</string>
+    <string name="download_music">Go ! Download Music</string>
+</resources>

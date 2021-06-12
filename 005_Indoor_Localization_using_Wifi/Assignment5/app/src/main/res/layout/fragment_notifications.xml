@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.notifications.NotificationsFragment">
+
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="K VALUE"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="59dp" />
+    <EditText
+        android:id="@+id/k"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:text="1"
+        tools:ignore="MissingConstraints"
+        app:layout_constraintTop_toBottomOf="@id/t1"
+        app:layout_constraintEnd_toEndOf="@id/t1"
+        app:layout_constraintStart_toStartOf="@id/t1"
+        />
+
+    <TextView
+        android:id="@+id/t2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LOCATION"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        tools:ignore="MissingConstraints"
+        app:layout_constraintTop_toBottomOf="@id/k"
+        app:layout_constraintEnd_toEndOf="@id/k"
+        app:layout_constraintStart_toStartOf="@id/k"/>
+
+    <EditText
+        android:id="@+id/mylocpredict"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        tools:ignore="MissingConstraints"
+        app:layout_constraintTop_toBottomOf="@id/t2"
+        app:layout_constraintEnd_toEndOf="@id/t2"
+        app:layout_constraintStart_toStartOf="@id/t2"
+        />
+
+    <Button
+        android:id="@+id/buttonPredict"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="top"
+        android:layout_margin="15dp"
+        android:background="@android:color/holo_red_light"
+        android:backgroundTint="@null"
+        android:text="PREDICT"
+        tools:ignore="MissingConstraints"
+        app:layout_constraintTop_toBottomOf="@id/mylocpredict"
+        app:layout_constraintEnd_toEndOf="@id/mylocpredict"
+        app:layout_constraintStart_toStartOf="@id/mylocpredict"
+        />
+    <Button
+        android:id="@+id/buttonK"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="top"
+        android:layout_margin="15dp"
+        android:background="@android:color/holo_red_light"
+        android:backgroundTint="@null"
+        android:text="PREDICT OPTIMAL K"
+        tools:ignore="MissingConstraints"
+        app:layout_constraintTop_toBottomOf="@id/buttonPredict"
+        app:layout_constraintEnd_toEndOf="@id/buttonPredict"
+        app:layout_constraintStart_toStartOf="@id/buttonPredict"
+        />
+</androidx.constraintlayout.widget.ConstraintLayout>

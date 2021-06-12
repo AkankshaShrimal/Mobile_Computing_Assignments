@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Assignment5</string>
+    <string name="title_home">Search</string>
+    <string name="title_dashboard">Wardive</string>
+    <string name="title_notifications">Location</string>
+</resources>

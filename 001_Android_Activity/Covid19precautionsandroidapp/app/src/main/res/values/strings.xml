@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Covid-19 precautions android app</string>
+    <string name="name"> NAME </string>
+    <string name="enterName"> Please enter your name </string>
+    <string name="precaution1"> Wearing a mask when outside </string>
+    <string name="precaution2">Washing hands frequently</string>
+    <string name="precaution3">Maintaining 2 feet distnce</string>
+    <string name="precaution4">Covering nose and mouth while sneezing and coughing</string>
+    <string name="precaution5">Taking health diets</string>
+    <string name="submitButton">SUBMIT</string>
+    <string name="clearButton">CLEAR</string>
+    <string name="checkButton">CHECK VULNERABILITY</string>
+</resources>

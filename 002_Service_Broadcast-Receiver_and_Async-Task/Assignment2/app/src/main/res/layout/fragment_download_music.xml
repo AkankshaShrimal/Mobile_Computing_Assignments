@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/check"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CHECK CONNECTION"
+        />
+    <Button xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/check_connection_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DOWNLOAD"
+
+        />
+    <EditText
+        android:id="@+id/link_input"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="http://faculty.iiitd.ac.in/~mukulika/s1.mp3"/>
+    <EditText
+        android:id="@+id/name_input"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="S1"/>
+
+</LinearLayout>
+
