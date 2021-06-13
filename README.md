@@ -2,14 +2,29 @@
 All  Assignments done in Mobile Computing course in Indraprastha Institute of Information Technology, Delhi (IIITD).
 
 ## Table Of Contents
+| S.NO     | TOPICS  | PROJECT  NAME    | READ/OUTPUT |
+| :---        |    :-----------------------------------------------:   |  :----------: | -----: |
+| 01.     | Basics of Android : **Activity, Intent and Log and Rotation Handling**       | [001_Android_Activity](001_Android_Activity/)  | [read](##001_Android_Activity) |
+| 02.     | Basic Music Application using : **fragment , service (foreground with notifications), Broadcast Receivers** for complete application, Check Connection, **Async Task to download song internal to the app** ,play songs from raw and internal files      | [002_Service_Broadcast-Receiver_and_Async-Task](002_Service_Broadcast-Receiver_and_Async-Task/)   | [read](##002_Service_Broadcast-Receiver_and_Async-Task) |
+| 03.     | Displaying and Editing list of students using **Recycler View, Adapter (No Database)**       | [003_Recyclerview_and_Fragments](003_Recyclerview_and_Fragments/)   | [read](##003_Recyclerview_and_Fragments) |
+| 04.     | Recording real time **sensor** data and storing in **Room database** while retrieving mean of data till date      | [004_Android_Sensors_and_Room_Database](004_Android_Sensors_and_Room_Database/)   | [read](##004_Android_Sensors_and_Room_Database) |
+| 05.     | **Indoor Localization** using wifi with room level accuracy : access wifi available, record RSI level, Localize using **War driving and KNN**,also Plotting data in android       | [005_Indoor_Localization_using_Wifi](005_Indoor_Localization_using_Wifi/)    | [read](##005_Indoor_Localization_using_Wifi) |
 
-|S.NO|                               TOPICS                                                 | PROJECT NAME      |
-|----|--------------------------------------------------------------------------------------|-------------------|
-|01. | Basics of Android : **Activity, Intent and Log and Rotation Handling** |[001_Android_Activity](001_Android_Activity/)      |
-|02. |Basic Music Application using : **fragment , service (foreground with notifications), Broadcast Receivers** for complete application, Check Connection, **Async Task to download song internal to the app** ,play songs from raw and internal files     |[002_Service_Broadcast-Receiver_and_Async-Task](002_Service_Broadcast-Receiver_and_Async-Task/)     |                                          
-|03. | Displaying and Editing list of students using **Recycler View, Adapter (No Database)**   |[003_Recyclerview_and_Fragments](003_Recyclerview_and_Fragments/)  |
-|04. |Recording real time **sensor** data and storing in **Room database** while retrieving mean of data till date |[004_Android_Sensors_and_Room_Database](004_Android_Sensors_and_Room_Database/)  |
-|05. | **Indoor Localization** using wifi with room level accuracy : access wifi available, record RSI level, Localize using **War driving and KNN**,also Plotting data in android  |[005_Indoor_Localization_using_Wifi](005_Indoor_Localization_using_Wifi/)       |
+<!-- 
+|S.NO|   TOPICS   | PROJECT  NAME   |  READ |
+|:----|:--------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------:|-------:|
+| | Basics of Android : **Activity, Intent and Log and Rotation Handling** |[001_Android_Activity](001_Android_Activity/)  | [read](##001_Android_Activity)|
+
+|01. | Basics of Android : **Activity, Intent and Log and Rotation Handling** |[001_Android_Activity](001_Android_Activity/)  | [read](##001_Android_Activity)|
+
+|02. |Basic Music Application using : **fragment , service (foreground with notifications), Broadcast Receivers** for complete application, Check Connection, **Async Task to download song internal to the app** ,play songs from raw and internal files     |[002_Service_Broadcast-Receiver_and_Async-Task](002_Service_Broadcast-Receiver_and_Async-Task/)   |  [read](##001_Android_Activity)  |
+
+|03. | Displaying and Editing list of students using **Recycler View, Adapter (No Database)**   |[003_Recyclerview_and_Fragments](003_Recyclerview_and_Fragments/)  | [read](##001_Android_Activity) |
+
+|04. |Recording real time **sensor** data and storing in **Room database** while retrieving mean of data till date |[004_Android_Sensors_and_Room_Database](004_Android_Sensors_and_Room_Database/)  | [read](##001_Android_Activity)|
+
+
+|05. | **Indoor Localization** using wifi with room level accuracy : access wifi available, record RSI level, Localize using **War driving and KNN**,also Plotting data in android  |[005_Indoor_Localization_using_Wifi](005_Indoor_Localization_using_Wifi/)       |[read](##001_Android_Activity)  | -->
 
 
 ## Outputs 
@@ -109,4 +124,4 @@ All  Assignments done in Mobile Computing course in Indraprastha Institute of In
 
                                     Fig 6. War driving data collected  
 
-<div align="center"><img src="Images/A5_war_driving.png" height='320px' /></div>
+<div align="center"><img src="Images/A5_war_driving.png"  /></div>
