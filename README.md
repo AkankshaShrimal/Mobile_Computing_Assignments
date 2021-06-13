@@ -3,7 +3,7 @@ All  Assignments done in Mobile Computing course in Indraprastha Institute of In
 
 ## Table Of Contents
 | S.NO     | TOPICS  | PROJECT  NAME    | READ/OUTPUT |
-| :---        |    :-----------------------------------------------:   |  :----------: | -----: |
+| :---        |    :-----------------------------------------------:   |  :---: | --: |
 | 01.     | Basics of Android : **Activity, Intent and Log and Rotation Handling**       | [001_Android_Activity](001_Android_Activity/)  | [read](##001_Android_Activity) |
 | 02.     | Basic Music Application using : **fragment , service (foreground with notifications), Broadcast Receivers** for complete application, Check Connection, **Async Task to download song internal to the app** ,play songs from raw and internal files      | [002_Service_Broadcast-Receiver_and_Async-Task](002_Service_Broadcast-Receiver_and_Async-Task/)   | [read](##002_Service_Broadcast-Receiver_and_Async-Task) |
 | 03.     | Displaying and Editing list of students using **Recycler View, Adapter (No Database)**       | [003_Recyclerview_and_Fragments](003_Recyclerview_and_Fragments/)   | [read](##003_Recyclerview_and_Fragments) |
